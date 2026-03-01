@@ -2,7 +2,7 @@
 # Search using Grover’s Algorithm
 
 ## Description
-This project demonstrates how Grover’s Algorithm can be used to search for a 4-bit password faster than classical brute-force search.
+This project demonstrates how Grover’s Algorithm can be used to search for a 2-bit and 4-bit password faster than classical brute-force search.
 
 The project compares:
 - Classical search attempts
